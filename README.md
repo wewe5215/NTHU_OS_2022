@@ -7,7 +7,6 @@
 - [MP3_report](https://hackmd.io/4lm6BIaXRbuyvwDzNh9caw)
 - [MP4_report](https://hackmd.io/NtEhYRnaQQe-hZQNtGhhlA)
 - [Pthread_report](https://hackmd.io/s9lFecNuRI6cvauOZWUV1g)
-- code的話搜尋109062233和109062320就可以看到所有有變更的地方
 ## 就醬
 # Contributors 
 ## 109062233 蘇裕恆
